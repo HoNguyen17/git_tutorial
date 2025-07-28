@@ -1,3 +1,3 @@
 config.log('config.js');
-config.log('version2');
+config.log('version`2');
 
